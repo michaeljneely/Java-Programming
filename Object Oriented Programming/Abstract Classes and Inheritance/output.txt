@@ -1,0 +1,50 @@
+Here's what's in the zoo: 
+============================
+I'm Jeremy the Canary; I am a Bird. I have yellow colour 1 and can sing with song quality 1.
+I can fly 50 metres
+============================
+I'm Reginald the Canary; I am a Bird. I have yellow colour 4 and can sing with song quality 3.
+I can fly 20 metres
+============================
+I'm Squawkers the Ostrich; I am a Bird. I have a height of 2 and a beak size of 5.
+Ostriches's Can't Fly!!
+I can walk 40 metres
+============================
+I'm Lionel the Ostrich; I am a Bird. I have a height of 2 and a beak size of 5.
+Ostriches's Can't Fly!!
+I can walk 40 metres
+============================
+I'm Bert the Norwegian Blue; I am a Canary. I have blue colour 1 and can sing with song quality 0.
+I can fly 0 metres
+============================
+I'm Spencer the Norwegian Blue; I am a Canary. I have blue colour 1 and can sing with song quality 0.
+I can fly 0 metres
+============================
+I'm Bruce the Shark; I am a Fish. I have a danger level of 0 and teeth of size 5.
+I can swim 1000 metres
+============================
+I'm Jaws the Shark; I am a Fish. I have a danger level of 99 and teeth of size 99.
+I can swim 10000 metres
+============================
+I'm Finn the Salmon; I am a Fish. I have a weight of 30 and a meat quality of 5.
+I can swim 70 metres
+============================
+I'm Jake the Salmon; I am a Fish. I have a weight of 30 and a meat quality of 5.
+I can swim 70 metres
+============================
+Equality between same species
+============================
+Canaries: Jeremy equals Reginald: false
+Ostriches: Squawkers equals Lionel: true
+Norwegian Blues: Bert equals Spencer: true
+Sharks: Bruce equals Jaws: false
+Salmon: Finn equals Jake: true
+============================
+Equality between different species
+============================
+Canaries and Salmon? Jeremy equals Jake: false
+What about Sharks and Ostriches? Jaws equals Squawkers: false
+How about Salmon and Sharks? Finn equals Bruce: false
+Canaries and Norwegian Blues? Reginald equals Bert: false
+============================
+Thanks for visiting the Zoo!
